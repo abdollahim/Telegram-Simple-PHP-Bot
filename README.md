@@ -21,6 +21,7 @@ I have implemented some API functions from the [Telegram Bot API](https://core.t
  ## Usage
  The only thing you need to change is your telegram bot token you received from Telegram:
  - class.php -> $this->botToken = "XXXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
+ - class.php -> find the line chat_id=@XXXXXXXXXXX and set the admin chat_id.
  - As I mentioned above maybe you need to correct a few spelling errors!
  - Enjoy...
 
