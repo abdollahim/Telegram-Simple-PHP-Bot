@@ -5,6 +5,7 @@ This is a simple and lightweight <strong>Telegram Bot</strong> written in pure <
  - Database class (database.php based on <strong>PDO</strong>)
  - A class you may need to group your functions. (class.php)
  - A file to write independently functions. (functions.php)
+ - A Log table and functions to record the user activities.
 
 ## Telegram Bot API
 I have implemented some API functions from the [Telegram Bot API](https://core.telegram.org/bots/api) guide that you can see them below:
@@ -24,4 +25,4 @@ I have implemented some API functions from the [Telegram Bot API](https://core.t
  - Enjoy...
 
  ## Contributing
-Contributions are welcome. Feel free to open a pull request with your changes or new <strong>Kali</strong> commands related to any penetration testing approaches.
+Contributions are welcome. Feel free to open a pull request with your changes or new features related to this Telegram Bot.
